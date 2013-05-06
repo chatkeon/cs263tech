@@ -1,0 +1,21 @@
+application: cs263techdemo
+version: 1
+runtime: python27
+api_version: 1
+threadsafe: true
+
+handlers:
+- url: /profile/.*
+  script: demo.app
+  login: required
+
+- url: /admin/.*
+  script: demo.app
+  login: admin
+
+- url: /.*
+  script: demo.app
+
+libraries:
+- name: jinja2
+  version: latest
