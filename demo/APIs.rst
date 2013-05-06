@@ -12,7 +12,7 @@ The following is a list of the APIs available for Google App Engine and a brief 
 7. Google Cloud Endpoints: this API allows you to generate API backends to simplify client access to data from other applications.
 8. Images: this API allows you to manipulate image data.
 9. Logs: this API allows you to access application and request logs.
-10. Mail: this API allows you to send e-mails on behalf of the application of the user (if signed into Google).
+10. Mail: this API allows you to send e-mails on behalf of the application or the user (if signed into Google).
 11. MapReduce: this API allows you to efficiently process large amounts of data using the MapReduce computing model.
 12. Memcache: this API allows you to use a memory cache to speed up datastore access or to hold temporary values.
 13. Namespaces: this API allows you to implement multitenancy through the use of separate namespaces.
