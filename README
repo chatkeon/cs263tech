@@ -3,9 +3,15 @@ Python Web Apps with Google App Engine
 Leah Chatkeonopadol
 5.6.13
 
+This technology tutorial explains how to get started writing Python web apps using Google App Engine.
+
 This git repository includes:
 • Sphinx documentation
 • Code for a basic Python web app
+
+The Sphinx documentation can be viewed on ReadtheDocs.org:
+
+https://cs263tech.readthedocs.org/en/latest/
 
 Below is a link to a vimeo video tutorial:
 
